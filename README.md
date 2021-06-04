@@ -1,4 +1,4 @@
-## Welcome to Kevtech Portpolio
+## Welcome to Kevtech Portfolio
 
 You can use the [editor on GitHub](https://github.com/kevtech/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
