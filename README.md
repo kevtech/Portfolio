@@ -1,5 +1,6 @@
 ## Welcome to Kevtech Portfolio
-# Kevin Smith
+## Kevin Smith
+### International AP Statistics and AP Physics teacher and wanna be data analyist
 
 You can use the [editor on GitHub](https://github.com/kevtech/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
